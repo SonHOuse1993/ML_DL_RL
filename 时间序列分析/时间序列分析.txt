@@ -1,0 +1,7 @@
+（一）介绍	http://www.cnblogs.com/vpegasus/p/7085369.html
+（二）平稳模型	http://www.cnblogs.com/vpegasus/p/ts2.html
+（三）ARIMA模型	http://www.cnblogs.com/vpegasus/p/arima.html
+（四）预测	http://www.cnblogs.com/vpegasus/p/forecast.html
+（五）循环神经网络	http://www.cnblogs.com/vpegasus/p/rnn.html
+（六）炙手可热的LSTM	http://www.cnblogs.com/vpegasus/p/lstm.html
+（七）隐马尔可夫模型	http://www.cnblogs.com/vpegasus/p/hmm.html
