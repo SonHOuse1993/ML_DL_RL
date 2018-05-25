@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/D/Projects/CppProjects/BPNN_TimeSeries2/main.cpp
+cstdio
+-
+cstdlib
+-
+cmath
+-
+ctime
+-
+memory.h
+/D/Projects/CppProjects/BPNN_TimeSeries2/memory.h
+
+/D/Projects/CppProjects/BPNN_TimeSeries2/test.cpp
+cstdio
+-
+cstdlib
+-
+cmath
+-
+ctime
+-
+memory.h
+/D/Projects/CppProjects/BPNN_TimeSeries2/memory.h
+
