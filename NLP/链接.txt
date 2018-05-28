@@ -1,0 +1,24 @@
+常用语料资源
+
+下面提供一些网上能下载到的中文的好语料，供研究人员学习使用。
+(1).中科院自动化所的中英文新闻语料库 http://www.datatang.com/data/13484
+中文新闻分类语料库从凤凰、新浪、网易、腾讯等版面搜集。英语新闻分类语料库为Reuters-21578的ModApte版本。
+(2).搜狗的中文新闻语料库 http://www.sogou.com/labs/dl/c.html
+包括搜狐的大量新闻语料与对应的分类信息。有不同大小的版本可以下载。
+(3).李荣陆老师的中文语料库 http://www.datatang.com/data/11968
+压缩后有240M大小
+(4).谭松波老师的中文文本分类语料 http://www.datatang.com/data/11970
+不仅包含大的分类，例如经济、运动等等，每个大类下面还包含具体的小类，例如运动包含篮球、足球等等。能够作为层次分类的语料库，非常实用。这个网址免积分(谭松波老师的主页)：http://www.searchforum.org.cn/tansongbo/corpus1.PHP
+(5).网易分类文本数据 http://www.datatang.com/data/11965
+包含运动、汽车等六大类的4000条文本数据。
+(6).中文文本分类语料 http://www.datatang.com/data/11963
+包含Arts、Literature等类别的语料文本。
+(7).更全的搜狗文本分类语料 http://www.sogou.com/labs/dl/c.html
+搜狗实验室发布的文本分类语料，有不同大小的数据版本供免费下载
+(8).2002年中文网页分类训练集 http://www.datatang.com/data/15021
+2002年秋天北京大学网络与分布式实验室天网小组通过动员不同专业的几十个学生，人工选取形成了一个全新的基于层次模型的大规模中文网页样本集。它包括11678个训练网页实例和3630个测试网页实例，分布在11个大类别中。
+
+常用分词工具
+
+将预料库进行分词并去掉停用词，常用分词工具有：
+StandardAnalyzer（中英文）、ChineseAnalyzer（中文）、CJKAnalyzer（中英文）、IKAnalyzer（中英文，兼容韩文，日文）、paoding（中文）、MMAnalyzer（中英文）、MMSeg4j（中英文）、imdict（中英文）、NLTK（中英文）、Jieba（中英文）。
